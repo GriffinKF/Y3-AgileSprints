@@ -9,8 +9,8 @@ export default class Home extends Component {
     }
     render() {
         return (
-            <div>
-                
+            <div className="home-page-wrapper">
+                <div className="home-page-square-two"> </div>
             </div>
         )
     }
